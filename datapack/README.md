@@ -1,7 +1,7 @@
 # Datapack for the project
 This is the datapack that is used for the timer that you see in-game when you use the **3 minute executable** version of the project. 
 
-The project still works fine w/o the datapack and you can even edit it to work with the **customizable time executable** version of the project, refer to ***Editing***
+The project still works fine w/o the datapack and you can even edit it to work with the **customizable time executable** version of the project, refer to [***Editing***](https://github.com/sipbuu/minecraft-infinite-dimensions/edit/main/datapack/README.md#editing)
 
 ## Credits
 
