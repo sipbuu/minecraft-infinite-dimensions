@@ -11,6 +11,7 @@ The project still works fine w/o the datapack and you can even edit it to work w
 ## Editing
 
 If you would like to edit the datapack to fit your own custom time length (*in seconds*) then follow this tutorial on how to do so.
+If you haven't downloaded the datapack yet, then download the datapack.zip file and unzip the folder
 
 ### Requirements
 - Any sort of code editing program that allows ``.mcfunction`` files to be edited/that is able to open and edit ``.mcfunction`` files (**Notepad works too**)
