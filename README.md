@@ -35,7 +35,7 @@ It could also be affected by the version of python that you are using, however I
 Follow the tutorial that is on the README.md over at the [datapack folder in this github repository.](https://github.com/sipbuu/random-warp-infinite/tree/main/datapack) It will help you with editing and fixing it to work with your custom time. This is mainly because the limitations of minecraft datapacks as of right now.
 
 #### Nothing is happening after the wait time / Dimension is printed but nothing happens on the console
-This usually means that the application doesn't recognize your server console with the name `C:\Windows\system32\cmd.exe`, or you don't have the console open at all. If this does occur try running the application again, and if you haven't, try running the `Run.bat` (which should be in your server folder) that comes with the easy set-up download option.  
+This usually means that the application doesn't recognize your server console with the name `C:\Windows\system32\cmd.exe`, or you don't have the console open at all. If this does occur try running the application again, and if you haven't, try running the `Run.bat` that comes with the easy set-up download option, the `Run.bat` should also be where the server location is. 
 
 #### The Bat file opens and then closes or shows an error
 If it shows an error, try to fix whatever it says the error may be caused by, this also could be just that the bat file isn't in the server folder/right location.
