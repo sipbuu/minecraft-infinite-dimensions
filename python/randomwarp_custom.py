@@ -151,7 +151,6 @@ def Send_Commands(inter_):
     hwnd = win32gui.FindWindow(None, window_name) 
     win = win32ui.CreateWindowFromHandle(hwnd) 
 
-    win.PostMessage(win32con.WM_KEYDOWN, win32con.VK_RETURN, 0)
     win.SendMessage(win32con.WM_CHAR, ord('e'), 0)
     win.SendMessage(win32con.WM_CHAR, ord('x'), 0)
     win.SendMessage(win32con.WM_CHAR, ord('e'), 0)
