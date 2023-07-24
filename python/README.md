@@ -6,6 +6,8 @@ There are different versions for each file, if you would like to look into the f
 
 If you are looking for the version where it is 3 minutes between each loop then look for the file "*randomwarp_3minutes.py* or just [click here](https://github.com/sipbuu/minecraft-infinite-dimensions/blob/main/python/randomwarp_3minutes.py)
 
+***Also, a quick reminder that this code is not optimized and will not run really nicely/smoothly most of the time, and will have some errors.***
+
 # Requirementes for python file / Errors with the python file
 
 For the python file you may **require some dependencies** such as **win32**, and **win32gui**, etc, which you can **get by typing** `pip install pywin32` or **by running** `python -m pip install pywin32`
