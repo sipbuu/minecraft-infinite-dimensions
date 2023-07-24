@@ -41,7 +41,7 @@ An example has been given below to help with changing ``update.mcfunction``.
 
 - Let's say my custom number for seconds is ``60``.
 
-- I want to start having the yellow parts happening at around ``20 seconds`` before it ends. Multiplying ``20 seconds`` by the ticks per second with your server (``usually 20``) would give me `400`.
+- Lets say that I want to start having the yellow parts happening at around ``20 seconds`` before it ends. Multiplying ``20 seconds`` by the ticks per second with your server (``usually 20``) would give me `400`.
 
 - Now, the number will be added up by 1, which means it is now ``401``, and it will be put into lines ``5-6``, replacing the number that appears after the ``score value Timer.timeLeft matches [number]..``, so now my lines ``5-6`` will now have this instead line instead ``execute if score value Timer.timeLeft matches 401..``
 
